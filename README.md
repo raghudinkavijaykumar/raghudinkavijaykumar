@@ -2,6 +2,48 @@
 
 Full Stack Cloud Developer | Computational Linguistics | Computer Vision | raghu.dinka.vijaykumar@gmail.com | +91 9035311376
 
+Programming Languages
+<p>
+<img alt="Java" src="https://img.shields.io/badge/-java-orange?style=flat-square&logo=java&logoColor=white" />
+<img alt="Javascript" src="https://img.shields.io/badge/-javascript-yellow?style=flat-square&logo=javascript&logoColor=white" />
+<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+<img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+</p>
+Cloud Platforms
+<p>
+<img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
+</p>
+Frameworks
+<p>
+<img alt="Spring Boot" src="https://img.shields.io/badge/-SpringBoot-green?style=flat-square&logo=spring&logoColor=white"/>
+<img alt="Spring Cloud" src="https://img.shields.io/badge/-SpringCloud-green?style=flat-square&logo=spring&logoColor=white"/>
+<img alt="React" src="https://img.shields.io/badge/-React-purple?style=flat-square&logo=react&logoColor=white"/>
+<img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+<img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-blue?style=flat-square&logo=kubernetes&logoColor=white"/>
+<img alt="Helm" src="https://img.shields.io/badge/-helm-091C84?style=flat-square&logo=helm&logoColor=white" />
+</p>
+
+Database
+<p>
+ - Teradata
+ - PostgreSQL
+ - MongoDB
+</p>
+
+Devops
+<p>
+- Gitlab
+- Jenkins
+</p>
+
+Code Quality
+<p>
+<img alt="SonarQube" src="https://img.shields.io/badge/-Sonarqube-4c9bd6?style=flat-square&logo=sonarqube&logoColor=white" />
+<img alt="Jmeter" src="https://img.shields.io/badge/-Jmeter-maroon?style=flat-square&logo=jmeter&logoColor=white" />
+<img alt="Jacoco" src="https://img.shields.io/badge/-Jacoco-red?style=flat-square&logo=jacoco&logoColor=white" />
+</p>
+
+
 Full Stack Cloud Developer with close to 5 years of experience in the design, development of scalable distributed applications. Frontend web applications using React and other flavors of JSX(Gatsby). Backend applications using Java, Spring Boot & Cloud with dockerized deployments on Kubernetes. Expertise in Google Cloud Platform, mainly in Dataflow, BigQuery, Kubernetes Engine. Interested in Computational Linguistics and Computer Vision. Intangible ability to learn anything that falls under my interest, ability to listen, mentor and collaborate.
 
 ## Links
