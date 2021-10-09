@@ -1,13 +1,16 @@
 # Raghu Dinka Vijaykumar
 
-Full Stack Cloud Developer | Computational Linguistics | Computer Vision | raghu.dinka.vijaykumar@gmail.com | +91 9035311376
+Full Stack Cloud Developer | Computational Linguistics | Computer Vision | raghu.dinka.vijaykumar@gmail.com 
 
 Programming Languages
 <p>
 <img alt="Java" src="https://img.shields.io/badge/-java-orange?style=flat-square&logo=java&logoColor=white" />
 <img alt="Javascript" src="https://img.shields.io/badge/-javascript-yellow?style=flat-square&logo=javascript&logoColor=white" />
 <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-<img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+</p>
+Version Control
+<p>
+ <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 Cloud Platforms
 <p>
